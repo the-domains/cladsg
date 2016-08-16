@@ -1,0 +1,14 @@
+layout_spectrum: 0.4238223941065371
+typography_spectrum: 0.48305141110904515
+color:
+  brandStrength: 0.46276365616358817
+  lightness: 0.5748290941119194
+  saturation: 0.020894343964755535
+  rhythmicContrast: 0.7919028482865542
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: clad.sg
